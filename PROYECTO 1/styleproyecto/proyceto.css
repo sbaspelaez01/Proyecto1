@@ -1,0 +1,202 @@
+.social img{
+    width: 40px;
+    display: inline;
+    margin-right: 30px;
+    
+
+}
+.social :hover{
+    cursor: pointer;
+    width: 45px;
+}
+.social{
+    margin-right: 172px;
+    margin-top: 30px;
+    text-align: right;
+}
+.principal-container {
+/*background-color:*/ 
+
+
+}
+.logo{
+    margin-left: 140px;
+    margin-top: 10px;
+}
+.logo :hover{
+    cursor: pointer;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    
+
+  }
+  li {
+    display: inline;
+}
+
+
+.navbar{
+    font-family: 'Poppins', sans-serif;
+    color: #02407d;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    margin: -35px -200px 100px 0px;
+}
+.navbar li:hover{
+    cursor: pointer;
+}
+.banerdog img {
+    width: 80%;
+    margin-right: 50px;
+    margin-top: -70px;
+}
+.ayudar img{
+    width: 80%;
+}
+.donacion img{
+    width: 80%;
+}
+.donacion :hover{
+    cursor: pointer;
+}
+.aporte{
+    font-family: 'Poppins', sans-serif;
+    color: #02407d;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.pago img{
+    width: 23%;
+    margin-left: 100px;
+    padding: auto 13px;
+}
+
+.pago :hover{
+    cursor: pointer;
+    width: 24%;
+}
+.mejoramos{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    margin-left: 70px;
+    margin-right: 100px;
+    color: rgb(61, 59, 59);
+    font-weight: 400;
+}
+.invitamos img{
+    width: 80%;
+    margin-left: 10%;
+    
+}
+.perritos{
+    margin-left: 135px;
+
+}
+.perritos img{
+    padding: 12px;
+    border-radius: 40px;
+}
+.perritos :hover{
+    cursor: pointer;
+}
+.peludo img{
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+.formulario h3 {
+    display: grid;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    color: rgb(61, 59, 59);
+    margin-left: 143px;
+}
+.busca {
+    float: right;
+    margin-top: -3.5%;
+    margin-right: 287px;
+}
+
+
+.Mascotas{
+    text-align: left;
+    margin-left: 145px;
+    width: 40%;
+    height: 1.38cm;
+    margin-top: -10px;
+    border-color: #02407d;
+    font-size: larger;
+    color: rgb(61, 59, 59);
+}
+
+.busqueda * {
+    float: right;
+    margin-right: 11%;
+    margin-top: -3.6%;
+    width: 37%;
+    height: 1.25cm;
+    border: 1px solid #02407d;
+}
+.perritoz {
+    float: right;
+
+
+    
+
+}
+.perri-last ::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.perri-last img{
+    width: 180px;
+    height: 180px;
+    margin-left: 130px;
+    margin-top: 80px;
+    border-radius: 100%;
+
+}
+.perri-last :hover{
+    cursor: pointer;
+}
+.random1{
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    margin-left: 170px;
+    color: rgb(97, 94, 94);
+
+}
+.random2{
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    margin-left: 240px;
+    color: rgb(97, 94, 94);
+
+
+}
+.random3{
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    margin-left: 215px;
+    color: rgb(95, 94, 94);
+
+
+}
+.random4{
+    font-family: 'Poppins', sans-serif;
+    display: inline;
+    color: rgb(96, 93, 93);
+    margin-left: 190px;
+}
+  
